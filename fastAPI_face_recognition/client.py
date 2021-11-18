@@ -76,7 +76,7 @@ params = {
 'fps':10, 
 'width':640, 
 'height':480, 
-'mode':'post',
+'mode':'websocket',
 }
 
 video_processing(**params)
