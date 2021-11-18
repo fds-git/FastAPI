@@ -97,7 +97,7 @@ def video_processing(socket: str, fps: int, width: int, height: int, mode: str =
 
 params = {
 'socket':'127.0.0.1:12000', 
-'fps':1, 
+'fps':10, 
 'width':640, 
 'height':480, 
 'mode':'websocket', 
